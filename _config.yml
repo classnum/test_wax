@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'Wax TEST'
+description:      'Testing Minimal Exhibitions with Jekyll'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
 copyright:        'Example copyright org, 2019'
